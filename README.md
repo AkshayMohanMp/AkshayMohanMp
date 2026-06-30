@@ -1,4 +1,5 @@
 # Akshay Mohan M P - GitHub Profile
+
 <div align="center">
   <table width="100%">
     <tr>
@@ -31,26 +32,11 @@
     </tr>
   </table>
 </div>
+
 <br />
-<h2 align="center">📊 GitHub Metrics Dashboard</h2>
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/akshaymohanmp">
-          <img src="https://github-readme-stats.vercel.app/api?username=akshaymohanmp&show_icons=true&theme=tokyonight&hide_border=true" alt="Akshay's GitHub stats" height="175" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/akshaymohanmp">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaymohanmp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-<br />
+
 <h2 align="center">🛠️ Tech Stack & Toolbox</h2>
+
 <div align="center">
   <table width="100%">
     <tr>
