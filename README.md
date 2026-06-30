@@ -4,7 +4,7 @@
   <table width="100%">
     <tr>
       <th colspan="2" align="center" style="border: none; padding: 0;">
-        <!-- Banner image (you will commit this to your repo) -->
+        <!-- Banner image (Make sure you commit this to your GitHub repo to see it) -->
         <img src="./developer_profile_banner.png" alt="Akshay Mohan M P" width="100%" />
       </th>
     </tr>
@@ -43,16 +43,16 @@
       <td align="center" width="30%"><strong>Frontend</strong></td>
       <td align="left">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="36" height="36" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36" />
         </a>&nbsp;&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />
         </a>&nbsp;&nbsp;
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="36" height="36" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="36" height="36" />
         </a>&nbsp;&nbsp;
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="36" height="36" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36" />
         </a>
       </td>
     </tr>
@@ -63,7 +63,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="36" height="36" />
         </a>&nbsp;&nbsp;
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="36" height="36" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" />
         </a>&nbsp;&nbsp;
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" />
@@ -91,7 +91,7 @@
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="36" height="36" />
         </a>&nbsp;&nbsp;
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="36" height="36" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36" />
         </a>&nbsp;&nbsp;
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" />
@@ -105,7 +105,7 @@
       <td align="center"><strong>Cloud & DevOps</strong></td>
       <td align="left">
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36" />
+          <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="36" height="36" />
         </a>&nbsp;&nbsp;
         <a href="https://coolify.io/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/coolify.svg" alt="Coolify" width="36" height="36" />
