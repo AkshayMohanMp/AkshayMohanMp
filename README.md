@@ -3,9 +3,9 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <th colspan="2" align="center" style="border: none; padding: 0;">
-        <!-- Banner image (Make sure you commit this to your GitHub repo to see it) -->
-        <img src="./developer_profile_banner.png" alt="Akshay Mohan M P" width="100%" />
+      <th colspan="2" align="center" style="padding: 20px;">
+        <h1 style="margin: 0;">Akshay Mohan M P</h1>
+        <p style="margin: 5px 0 0 0;">Full Stack Web Developer | Cloud & DevOps</p>
       </th>
     </tr>
     <tr>
@@ -32,8 +32,6 @@
     </tr>
   </table>
 </div>
-
-<br />
 
 <h2 align="center">🛠️ Tech Stack & Toolbox</h2>
 
@@ -126,3 +124,4 @@
     </tr>
   </table>
 </div>
+
